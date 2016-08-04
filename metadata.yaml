@@ -1,0 +1,30 @@
+_repo: The-Coxon-Fund_1193
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: The greater the windbag the greater the calamity. Henry James examines
+  one of his favorite topics--the artist;s place in society--by profiling a "genius"
+  who just can't seem to support himself. A dazzling intellectual and brilliant speaker,
+  Mr. Saltram has become the most sought-after houseguest in England. But, as his
+  intellectual labors slacken, it become sharper and harder to get him to leave. A
+  wry, edgy comedy about the fine line between making art...and freeloading.
+gutenberg_issued: '1998-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1193'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+- GITenberg
+title: The Coxon Fund
+url: http://www.gutenberg.org/ebooks/1193
