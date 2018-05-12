@@ -1,5 +1,8 @@
 _repo: The-Coxon-Fund_1193
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: James, Henry
@@ -14,6 +17,8 @@ description: The greater the windbag the greater the calamity. Henry James exami
   Mr. Saltram has become the most sought-after houseguest in England. But, as his
   intellectual labors slacken, it become sharper and harder to get him to leave. A
   wry, edgy comedy about the fine line between making art...and freeloading.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1193#The-Coxon-Fund
 gutenberg_issued: '1998-02-01'
 gutenberg_type: Text
 identifiers:
